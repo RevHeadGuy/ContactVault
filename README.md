@@ -1,4 +1,4 @@
-ContactVault 📞🔐
+**ContactVault** 📞🔐
 
 A simple and efficient Phonebook Management System built using C++.
 
